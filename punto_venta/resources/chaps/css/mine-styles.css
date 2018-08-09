@@ -1,0 +1,112 @@
+.right
+{
+	align-self: right;
+}
+.alg-con-right
+{
+	align-content: right;
+	padding-left: 12rem;
+}
+.pt2
+{
+	padding-top: 2rem;
+}
+.pt1
+{
+	padding-top: 1rem;
+}
+.pg-1
+{
+	padding: 1rem;
+}
+.pt0
+{
+	padding-top: 0;
+}
+
+.pt4
+{
+	padding-top: 4rem;
+}
+.pb2
+{
+	padding-bottom: 2rem;
+}
+.pb0
+{
+	padding-bottom: 0;
+}
+.pb4
+{
+	padding-bottom: 4rem;
+}
+.bg-purple
+{
+	background-color: #9C27B0;
+}
+.bg-pink
+{
+	background-color: #E91E63  ;
+	
+}
+.txt-white
+{
+	color: #FFFFFF;
+}
+.txt-pink
+{
+	color: #E91E63;
+}
+.pd-0
+{
+	margin: 0;
+	padding: 0;
+}
+.pl3
+{
+	margin-left: 3rem;
+}
+.pl0
+{
+	padding-left: 0;
+}
+.pr0
+{
+	padding-right: 0;
+}
+
+.bg-grey
+{
+	background-color: grey;
+}
+.mt0
+{
+	margin-top: 0;
+}
+.mb0
+{
+	margin-bottom: 0;
+}
+.ml0
+{
+	margin-left: 0;
+}
+.mr0
+{
+	margin-right: 0;
+}
+.ml2
+{
+	margin-left: 2rem;
+}
+
+.opt-nav:hover
+{
+	background-color: rgba(0,0,0,.2);
+}
+
+.bg-border-purple
+{
+	background-color: #9C27B0;	
+}
+
